@@ -1,5 +1,4 @@
 package com.greatlearning.emailapps;
-import com.greatlearning.emailapp.ui.*;
 public class Employee {
 		private String firstName;
 	    private String lastName;
