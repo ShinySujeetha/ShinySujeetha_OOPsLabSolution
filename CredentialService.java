@@ -48,7 +48,7 @@ public class CredentialService {
 		public void showCredentials() {
 			System.out.println("Dear " +employee.getFirstName() +" your generated credentials are as follows" );
 			System.out.println("Email Id: " +generatedEmailId);
-			System.out.print("Password:");
+			System.out.print("Password: ");
 			System.out.print(generatedPassword);
 		}
 
